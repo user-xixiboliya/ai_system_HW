@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@10.184.27.2" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="0222@connect.nmb1.seetacloud.com">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="11401root@connect.nmb1.seetacloud.com:20255">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lbx@10.184.17.118:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/assignment1" local="$PROJECT_DIR$/assignment1" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.184.27.2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lbx/ai_system_assignment1" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:20255 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

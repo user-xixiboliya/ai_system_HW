@@ -1,0 +1,18 @@
+experimentName: mnist_pytorch
+trialConcurrency: 8
+maxExperimentDuration: 1h
+maxTrialNumber: 1000
+searchSpaceFile: search_space.json
+experimentWorkingDirectory: /sdc/2023/lbx/assignment3
+useAnnotation: false
+trialCommand: python3 NNI_modified.py
+trialCodeDirectory: /sdc/2023/lbx/assignment3
+trialGpuNumber: 4
+tuner:
+  name: TPE # Anneal random
+  classArgs:
+    optimize_mode: maximize
+trainingService:
+  platform: local
+  use_active_gpu: true
+
